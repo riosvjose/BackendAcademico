@@ -1,0 +1,9 @@
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\bin\Debug\netstandard2.0\BackendAcademico.Core.deps.json
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\bin\Debug\netstandard2.0\BackendAcademico.Core.dll
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\bin\Debug\netstandard2.0\BackendAcademico.Core.pdb
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\obj\Debug\netstandard2.0\BackendAcademico.Core.csprojAssemblyReference.cache
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\obj\Debug\netstandard2.0\BackendAcademico.Core.AssemblyInfoInputs.cache
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\obj\Debug\netstandard2.0\BackendAcademico.Core.AssemblyInfo.cs
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\obj\Debug\netstandard2.0\BackendAcademico.Core.csproj.CoreCompileInputs.cache
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\obj\Debug\netstandard2.0\BackendAcademico.Core.dll
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Core\obj\Debug\netstandard2.0\BackendAcademico.Core.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "he00Ug8fbnS9DsVJPiV3WL9Rgfes75lVpVVcatDmsCRlqdbU0DsjDffnSHNojTFe5I5sHBkps81+LdidxOXvxA==",
+  "success": true,
+  "projectFilePath": "D:\\UCB\\Clases angular\\Backend\\Proyectos\\BackendAcademico\\BackendAcademico.Core\\BackendAcademico.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\bin\Debug\netstandard2.0\BackendAcademico.Core.dll
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\obj\Debug\netstandard2.0\BackendAcademico.Infraestructure.csprojAssemblyReference.cache
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\obj\Debug\netstandard2.0\BackendAcademico.Infraestructure.AssemblyInfoInputs.cache
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\obj\Debug\netstandard2.0\BackendAcademico.Infraestructure.AssemblyInfo.cs
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\obj\Debug\netstandard2.0\BackendAcademico.Infraestructure.csproj.CoreCompileInputs.cache
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\bin\Debug\netstandard2.0\BackendAcademico.Infraestructure.deps.json
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\bin\Debug\netstandard2.0\BackendAcademico.Infraestructure.dll
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\bin\Debug\netstandard2.0\BackendAcademico.Infraestructure.pdb
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\bin\Debug\netstandard2.0\BackendAcademico.Core.pdb
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\obj\Debug\netstandard2.0\BackendAcademico.Infraestructure.csproj.CopyComplete
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\obj\Debug\netstandard2.0\BackendAcademico.Infraestructure.dll
+D:\UCB\Clases angular\Backend\Proyectos\BackendAcademico\BackendAcademico.Infraestructure\obj\Debug\netstandard2.0\BackendAcademico.Infraestructure.pdb
